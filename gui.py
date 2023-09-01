@@ -8,7 +8,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 # Loading the Model
-model=load_model('Wrinkle_Detection.h5')
+model=load_model('Wrinkle_Detection1.h5')
 
 # Initializing the GUI
 top=tk.Tk()
